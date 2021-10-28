@@ -1,0 +1,10 @@
+a.out
+hello
+main2.cpp
+main2.o
+main(defunct).cpp
+main.o
+Makefile
+out.txt
+poop
+prog2
